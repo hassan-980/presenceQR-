@@ -12,6 +12,6 @@ export default defineConfig({
     // nitro/vite builds from this
     server: { 
       allowedHosts: ['presenceqr.onrender.com'],
-      entry: "server" },
+      },
   },
 });
